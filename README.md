@@ -1,1 +1,1 @@
-This contains custom shell-scripts created by me
+This repo contains custom shell-scripts created by me
